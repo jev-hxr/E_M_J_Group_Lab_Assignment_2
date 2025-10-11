@@ -50,3 +50,7 @@ Analysis and Comparison
 ## Insights & Conclusion
   1. Carat is the most significant predictor of price; physical dimensions (x, y, z) also contribute strongly.
   2. Categorical variables like cut, color, and clarity influence price but less directly — they interact with carat size.
+
+Section 1 and 2 is done by Manville
+Section 3 is done by Elizabeth
+Section 4 and 5 is done by Jevons
