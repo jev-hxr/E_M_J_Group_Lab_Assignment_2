@@ -47,6 +47,6 @@ Analysis and Comparison
   3. Explain the different alpha values in RR and their corresponding results
   4. Explain examples where LR and RR are more suited for
 
-Insights & Conclusion
+## Insights & Conclusion
   1. Carat is the most significant predictor of price; physical dimensions (x, y, z) also contribute strongly.
   2. Categorical variables like cut, color, and clarity influence price but less directly — they interact with carat size.
